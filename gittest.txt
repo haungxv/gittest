@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 第一行：master
 第二行：dev--
+=======
+第一行：master-qwe
+第二行：dev
+>>>>>>> 38ad47164dcb4e2b9243470a2ccd78e9274153d4
 第三行：dev解决冲突
